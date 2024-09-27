@@ -8,3 +8,4 @@ Come join us learn Cairo, one Friday at a time.
 - BAC-3: Common programming concepts II
 - BAC-4: Common collections: Array
 - BAC-5: Common collections: Dictionaries
+- BAC-6: Understanding Ownership
