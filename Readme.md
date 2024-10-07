@@ -10,3 +10,4 @@ Come join us learn Cairo, one Friday at a time.
 - BAC-5: Common collections: Dictionaries
 - BAC-6: Understanding Ownership
 - BAC-7: Structs
+- BAC-8: Enums
