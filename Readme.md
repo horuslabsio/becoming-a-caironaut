@@ -11,3 +11,4 @@ Come join us learn Cairo, one Friday at a time.
 - BAC-6: Understanding Ownership
 - BAC-7: Structs
 - BAC-8: Enums
+- BAC-9: Packages, Crates and Modules
