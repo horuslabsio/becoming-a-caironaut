@@ -13,3 +13,4 @@ Come join us learn Cairo, one Friday at a time.
 - BAC-8: Enums
 - BAC-9: Packages, Crates and Modules
 - BAC-10: Generic Types and Traits
+- BAC-11: Error Handling
