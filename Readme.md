@@ -14,3 +14,4 @@ Come join us learn Cairo, one Friday at a time.
 - BAC-9: Packages, Crates and Modules
 - BAC-10: Generic Types and Traits
 - BAC-11: Error Handling
+- BAC-12: Testing Cairo Programs
